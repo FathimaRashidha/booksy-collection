@@ -1,0 +1,36 @@
+{
+    "Fiction": {
+        "Fantasy": [],
+        "Science Fiction": [],
+        "Mystery/Thriller": [
+            {
+                "title": "Nee Naan Nilal",
+                "author": "kaviyan",
+                "inspire": "its somehing new that always eager to get the next page",
+                "gain": "a good experience",
+                "link": ""
+            }
+        ],
+        "Romance": [],
+        "Historical Fiction": [],
+        "Horror": [],
+        "Literary Fiction": []
+    },
+    "Non-Fiction": {
+        "Biography/Autobiography": [],
+        "Memoir": [],
+        "Self-Help": [],
+        "History": [],
+        "Science/Technology": [],
+        "Travel": [],
+        "Philosophy": []
+    },
+    "Hybrid & Other": {
+        "Poetry": [],
+        "Drama/Play": [],
+        "Children\u2019s Books": [],
+        "Young Adult": [],
+        "Graphic Novels/Comics": [],
+        "Anthologies": []
+    }
+}
